@@ -3,17 +3,17 @@
 <h2>Print numbers from 1 to N without the help of loops.
 
 <h3>Example 1:
-<code>
+<pre>
 Input:
 N = 10
 Output: 1 2 3 4 5 6 7 8 9 10
-</code>
+</pre>
 <h3>Example 2:
-<code>
+<pre>
 Input:
 N = 5
 Output: 1 2 3 4 5
-</code>
+</pre>
 
 <h3>Your Task:</h3>
 This is a function problem. You only need to complete the function printNos() that takes N as parameter and prints number from 1 to N recursively. Don't print newline, it will be added by the driver code.
